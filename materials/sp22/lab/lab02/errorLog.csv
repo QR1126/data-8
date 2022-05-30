@@ -1,0 +1,5 @@
+0,NameError,name 'num_farmers_markets_columns' is not defined,0,,2022-05-30 23:24:54.169521
+1,NameError,name 'num_farmers_markets_columns' is not defined,0,,2022-05-30 23:25:12.964641
+2,NameError,name 'y' is not defined,0,,2022-05-30 23:30:42.287964
+3,TypeError,'int' object is not callable,0,,2022-05-30 23:48:39.129195
+4,NameError,name 'math' is not defined,0,,2022-05-30 23:56:46.601079
