@@ -1,0 +1,10 @@
+TypeError,only integer scalar arrays can be converted to a scalar index
+TypeError,with_column() missing 1 required positional argument: 'values'
+ValueError,"The column ""neither"" is not in the table. The table contains these columns: Nachos"
+ValueError,"label ""Reactions"" not in labels ('Nachos',)"
+TypeError,'int' object is not callable
+TypeError,'int' object is not iterable
+TypeError,'int' object is not iterable
+TypeError,an integer is required
+SyntaxError,"invalid syntax (294292760.py, line 7)"
+ValueError,"The column ""Age"" is not in the table. The table contains these columns: PlayerName, Salary"
